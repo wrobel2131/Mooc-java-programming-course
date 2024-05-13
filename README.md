@@ -1,1 +1,1 @@
-# Mooc-java-programming-course
+# University of Helsinki's open online course on programming in java.
