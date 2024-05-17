@@ -1,1 +1,1 @@
-# University of Helsinki's open online course on programming in java.
+# University of Helsinki's open online course on programming in java - part I.
